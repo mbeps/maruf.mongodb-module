@@ -4,6 +4,7 @@
     "description": "Contains extensions for MondoDB",
     "publisher": "Maruf",
     "version": "0.0.1",
+    "repository": "https://github.com/mbeps/maruf.mongodb-module",
     "engines": {
         "vscode": "^1.69.0"
     },
@@ -12,6 +13,7 @@
     ],
     "extensionPack": [ 
         "mongodb.mongodb-vscode",
-        "hansvn.instant-mongo"
+        "hansvn.instant-mongo",
+        "cweijan.vscode-database-client2"
     ]
 }
